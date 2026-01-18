@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+.font-inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+}
+
+/* ----Color style----- */
+.dark-blue {
+  background-color: #1a0b2e;
+}
+
+.light-dark-blue {
+  background-color: #230e3d;
+}
+.text-white {
+  color: #ffff;
+}
+.text-green {
+  color: #00ff88;
+}
+
+.gradient-logo{
+    background: linear-gradient(to top, #F7E93F, #FB09B4, #9100F8);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+.gradient-color{
+    background: linear-gradient(to top, #F7E93F, #FB09B4, #9100F8);
+    
+}
